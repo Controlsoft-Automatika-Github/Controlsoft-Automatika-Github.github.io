@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "controlsoft.io.launcher",
+        "sha256_cert_fingerprints": ["61:F7:34:32:5D:93:EB:9C:CC:56:F0:7C:F6:D3:B8:6E:BC:A9:4C:BB:5C:C9:6B:FD:35:64:46:95:18:E0:DE:78"]
+      }
+    }]
