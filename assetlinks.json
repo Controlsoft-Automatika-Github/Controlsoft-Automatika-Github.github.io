@@ -1,8 +1,0 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "app.webboard.twa.coso",
-        "sha256_cert_fingerprints": ["BA:3B:2F:E8:01:85:52:5A:D7:69:4C:A5:90:82:8E:24:75:73:7A:CC:FA:E8:F1:F1:77:03:DF:BE:9A:52:5C:06"]
-      }
-    }]
