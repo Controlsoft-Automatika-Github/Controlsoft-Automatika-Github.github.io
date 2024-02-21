@@ -2,7 +2,7 @@
       "relation": ["delegate_permission/common.handle_all_urls"],
       "target": {
         "namespace": "android_app",
-        "package_name": "controlsoft.io.launcher",
-        "sha256_cert_fingerprints": ["61:F7:34:32:5D:93:EB:9C:CC:56:F0:7C:F6:D3:B8:6E:BC:A9:4C:BB:5C:C9:6B:FD:35:64:46:95:18:E0:DE:78"]
+        "package_name": "controlsoft.io.launcher.teszt",
+        "sha256_cert_fingerprints": ["85:21:C2:2E:5A:52:C9:9F:EB:EE:4C:BC:4B:E9:8B:59:1A:A8:27:28:C7:97:B5:EC:74:75:7E:B5:19:A0:81:D4"]
       }
     }]
