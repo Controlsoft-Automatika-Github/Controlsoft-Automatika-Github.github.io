@@ -3,6 +3,8 @@
       "target": {
         "namespace": "android_app",
         "package_name": "controlsoft.automatika.webscada7",
-        "sha256_cert_fingerprints": ["36:1A:97:99:1F:6C:50:9B:75:70:93:83:84:97:AF:3E:F3:F9:DB:84:C1:8E:02:82:C2:D4:61:A1:49:54:32:0C"]
+        "sha256_cert_fingerprints": [
+          "85:21:C2:2E:5A:52:C9:9F:EB:EE:4C:BC:4B:E9:8B:59:1A:A8:27:28:C7:97:B5:EC:74:75:7E:B5:19:A0:81:D4",
+          "36:1A:97:99:1F:6C:50:9B:75:70:93:83:84:97:AF:3E:F3:F9:DB:84:C1:8E:02:82:C2:D4:61:A1:49:54:32:0C"]
       }
     }]
