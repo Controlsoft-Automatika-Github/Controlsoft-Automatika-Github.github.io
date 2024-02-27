@@ -2,7 +2,7 @@
       "relation": ["delegate_permission/common.handle_all_urls"],
       "target": {
         "namespace": "android_app",
-        "package_name": "controlsoft.io.launcher.teszt",
-        "sha256_cert_fingerprints": ["85:21:C2:2E:5A:52:C9:9F:EB:EE:4C:BC:4B:E9:8B:59:1A:A8:27:28:C7:97:B5:EC:74:75:7E:B5:19:A0:81:D4"]
+        "package_name": "controlsoft.automatika.webscada7",
+        "sha256_cert_fingerprints": ["F9:9B:C4:E8:99:10:1B:1F:B6:67:11:FA:CA:ED:F0:9E:0D:BB:D6:63:06:88:57:8C:1B:41:99:27:F0:FA:6C:04"]
       }
     }]
