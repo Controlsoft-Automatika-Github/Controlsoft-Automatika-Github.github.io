@@ -5,9 +5,9 @@
     ],
     "target": {
       "namespace": "android_app",
-      "package_name": "controlsoft.automatika.webscada7",
+      "package_name": "controlsoft.automatika.webscada7.app",
       "sha256_cert_fingerprints": [
-        "36:1A:97:99:1F:6C:50:9B:75:70:93:83:84:97:AF:3E:F3:F9:DB:84:C1:8E:02:82:C2:D4:61:A1:49:54:32:0C"
+        "08:0F:56:2D:97:C5:97:FD:AA:86:57:1F:77:71:02:40:87:4E:86:34:80:B7:81:CD:8D:38:82:33:07:F2:0A:97"
       ]
     }
   }
